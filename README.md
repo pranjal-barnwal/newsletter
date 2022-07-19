@@ -5,13 +5,13 @@ This project is a template for newsletter signup page which adds users to my new
 
 ## Snapshots:
 ### Home Page-
-<img alt="home-image" src="./imgs/home.PNG">
+<img alt="home-image" src="./imgs/home.png">
 
 ### Success Page-
-<img alt="success-image" src="./imgs/success.PNG">
+<img alt="success-image" src="./imgs/success.png">
 
 ### Failure Page-
-<img alt="failure-image" src="./imgs/failure.PNG">
+<img alt="failure-image" src="./imgs/failure.png">
 
 
 
